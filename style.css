@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&display=swap ');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'nunito', sans-serif;
+
+}
+
+
+body {
+    background-color: brown;
+
+}
+
+.calculator {
+    width: 300px;
+    height: 500px;
+    background-color: black;
+    color: rgb(180, 108, 22);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px rgba(rgba(16, 1, 1, 0.002), green, blue, alpha);
+    text-align: center;
+    padding: 20px 0px;
+}
+
+h1 {
+    color: whitesmoke;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+label {
+    color: white;
+    margin: 10px;
+
+}
+
+input {
+    width: 250px;
+    height: 30px;
+    padding: 5px;
+    margin: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+
+}
+
+button {
+    font-size: 18px;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: rgb(15, 15, 15);
+    background-color: rgb(42, 165, 67);
+    font-weight: 999;
+
+
+}
+
+p {
+    color: white;
+    margin-top: 100x;
+
+
+}
